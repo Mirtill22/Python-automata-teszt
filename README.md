@@ -1,0 +1,1 @@
+# Python-automata-teszt
